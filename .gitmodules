@@ -1,0 +1,9 @@
+[submodule "CryptiK-Master"]
+	path = CryptiK-Master
+	url = https://github.com/Juloass/CryptiK-Master
+[submodule "CryptiK-Instance"]
+	path = CryptiK-Instance
+	url = https://github.com/Juloass/CryptiK-Instance
+[submodule "CryptiK-Orderer"]
+	path = CryptiK-Orderer
+	url = https://github.com/Juloass/CryptiK-Orderer
